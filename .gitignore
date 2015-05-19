@@ -55,3 +55,5 @@ target/
 
 .DS_Store
 dataset/
+/scripts/semi-supervised/*.arff
+/scripts/semi-supervised/*(PARSED).csv
